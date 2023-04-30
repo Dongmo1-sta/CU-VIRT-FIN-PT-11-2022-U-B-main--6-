@@ -1,0 +1,263 @@
+newkeys.sh
+
+# How to: ls (PATH to activites) > .gitignore_1
+# Copy contents here
+
+# Instructional and Sensitive Content
+
+LessonPlan.md
+gitpush.sh
+script.md
+.env
+
+# 1
+#01-Financial-Programming-Python
+
+# **/01_Ins_Variables/Solved
+# **/02_Stu_Percent_Increase/Solved
+# **/03_Ins_Lists/Solved
+# **/04_Stu_Manipulating_Lists/Solved
+# **/05_Ins_Dictionaries/Solved
+# **/06_Stu_Working_with_Dictionaries/Solved
+
+# **/01_Stu_Variables/Solved
+# **/02_Stu_Terminal_Gitbash/Solved
+# **/03_Stu_Conditional_Statements/Solved
+# **/04_Ins_Conditionals/Solved
+# **/05_Stu_Conditionals/Solved
+# **/06_Ins_Functions/Solved
+# **/07_Stu_Functions/Solved
+# **/08_Ins_Loops/Solved
+# **/09_Stu_Loops/Solved
+
+# 2
+#02-Financial-Applications-Python
+
+# **/01_Stu_Python_Code_Drills/Solved
+# **/02_Stu_ATM_User_Stories/Solved
+# **/03_Inst_ATM_Application_Logic/Solved
+# **/04_Stu_ATM_Application_Code/Solved
+# **/05_Stu_ATM_Modularization/Solved
+
+# **/01_Ins_ATM_Application/Solved
+# **/02_Stu_Build_ATM_Functions/Solved
+# **/03_Stu_Create_Github_Repository/Solved
+# **/04_Stu_Explore_ReadMes/Solved
+
+# 3
+# 03-Financial-Analysis-Pandas
+
+# **/01-Inst_Introducing_JupyterLab/Solved
+# **/02-Ins_Introducing_Series/Solved
+# **/03-Ins_Introducing_DataFrames/Solved
+# **/04-Stu_A_Friends_DataFrame/Solved
+# **/05-Ins_Column_Manipulation/Solved
+# **/06-Stu_Manipulating_DataFrames/Solved
+# **/07-Ins_Reading_CSVs/Solved
+# **/08-Stu_From_CSV_to_DataFrame/Solved
+
+# **/01_Inst_Indexing/Solved
+# **/02-Stu_Indexing_Loans/Solved
+# **/03-Inst_Pandas_DateTime_Object/Solved
+# **/04-Stu_Markets_and_DateTime/Solved
+# **/05-Inst_Arbitrage_in_Code/Solved
+# **/06-Evr_Data_Cleaning/Solved
+
+# 4
+# 04-Quantative-Analysis-with-Pandas
+
+# **/01-Ins_Concat/Solved
+# **/02-Stu_Concat/Solved
+# **/03-Ins_Statistical_Fundamentals/Solved
+# **/04-Evr_Statistical_Fundamentals/Solved
+# **/05-Ins_Risk_Metrics/Solved
+# **/06-Stu_Risk_Metrics/Solved
+
+# **/01-Ins_Returns/Solved
+# **/02-Stu_Returns/Solved
+# **/03-Ins_Rolling_Statistics/Solved
+# **/04-Stu_Rolling_Statistics/Solved
+# **/05-Ins_Correlation/Solved
+# **/06-Stu_Correlation/Solved
+# **/07-Ins_Beta/Solved
+# **/08-Stu_Beta/Solved
+# **/09-Portfolio_Planner_Part_I/Solved
+# **/10-Portfolio_Planner_Part_II/Solved
+
+# 5
+# 05-Financial-Simulations-and-APIs
+
+# **/01-Inst_Json_Practice/Solved
+# **/02-Stu_Json_Practice/Solved
+# **/03-Inst_API_Requests/Solved
+# **/04-Stu_API_Requests/Solved
+# **/05-Inst_Exception_Handling/Solved
+# **/06-Stu_Exception_Handling/Solved
+
+# **/01-Inst_Alpaca_Demo/Solved
+# **/02-Inst_Probability_Distributions/Solved
+# **/03-Inst_Intro_MonteCarlo/Solved
+# **/04-Stu_Intro_MonteCarlo/Solved
+# **/05-Inst_Simulation_of_Stock_Price_Trajectory/Solved
+# **/06-Stu_Financial_Forecasting/Solved
+
+# 6
+# 06-Data-Visualization-with-PyViz
+
+# **/01-Stu_Exploring_Visualizations/Solved
+# **/02-Ins_hvPlot_Demo/Solved
+# **/03-Stu_Plotting_Visual_Takeover/Solved
+# **/04-Ins_hvPlot_Widgets/Solved
+# **/05-Stu_hvPlot_Widgets/Solved
+
+# **/01-Ins_GeoViews_Demo/Solved
+# **/02-Stu_Mapping_Adventures/Solved
+# **/03-Stu_Cartographers_Expedition/Solved
+# **/04-Ins_Composing_Plots/Solved
+# **/05-Stu_Composing_Masterpieces/Solved
+# **/06-Ins_Viz_Options/Solved
+# **/07-Stu_Picture_Perfect/Solved
+
+# 7 
+# 07-Financial-Databases-with-SQL
+
+# **/01-Ins-SqlAlchemy/Solved
+# **/02-Ins_Tables/Solved
+# **/03-Stu_Create_Tables/Solved
+# **/04-Evr_SQL_Queries/Solved
+# **/05-Stu_CRUD_Queries/Solved
+# **/06-Evr_Table_Joins/Solved
+
+# **/01-Ins_Pandas_Database/Solved
+# **/02-Stu_NYSE_Database/Solved
+# **/03-Evr_Database_CLI_Application/Solved
+
+# # # 10
+# 10-Unsupervised-Learning
+
+# **/01-Ins_Clusters/Solved
+# **/02-Ins_Kmeans/Solved
+# **/03-Stu_Segmenting_Customers/Solved
+# **/04-Ins_Elbow_Method/Solved
+# **/05-Stu_Finding_k/Solved
+
+# **/01-Ins_Preprocessing/Solved
+# **/02-Stu_Segmenting_Customer_Data/Solved
+# **/03-Ins_PCA/Solved
+# **/04-Stu_Segmenting_with_PCA/Solved
+
+# # 11
+# 11-Time-Series-Analysis
+
+# **/01-Ins_Time_Series_Warmup/Solved
+# **/02-Ins_Time_Groupby/Solved
+# **/03-Stu_Groupby/Solved
+# **/04-Ins_Visualizing_Time_Patterns/Solved
+# **/05-Stu_Visualizing_Time_Patterns/Solved
+# **/06-Ins_Predicting_With_Correlation/Solved
+# **/07-Stu_Predicting_With_Correlation/Solved
+
+# **/01-Warm_Up/Solved
+# **/02-Prep_Data_Train/Solved
+# **/03-Analyze_Model_Results/Solved
+# **/04-Detecting_Changes/Solved
+# **/05-Modeling_Events/Solved
+
+# # 12
+# 12-Supervised-Learning
+
+# **/01_Ins_Logistic_Regression/Solved
+# **/02_Ins_SVM/Solved
+# **/03_Stu_SVM/Solved
+# **/04_Ins_Decision_Trees/Solved
+# **/05_Ins_Random_Forest/Solved
+# **/06_Stu_Random_Forest/Solved
+
+# **/01_Ins_KNN/Solved
+# **/02_Stu_KNN/Solved
+# **/03_Ins_Random_Resampling/Solved
+# **/04_Stu_Random_Resampling/Solved
+# **/05_Ins_Synthetic_Resampling/Solved
+# **/06_Stu_Synthetic_Resampling/Solved
+# **/07_Ins_Balanced_Random_Forest/Solved
+
+# # 13
+# 13-Neural-Networks
+
+# **/01-Evr_Neural_Networks_Keras/Solved
+# **/02-Evr_Nonlinear_Data/Solved
+
+# **/01-Ins_Deep_Learning/Solved
+# **/02-Stu_Credit_Scoring/Solved
+# **/03-Ins_Model_Persistence/Solved
+# **/04-Stu_After_Training/Solved
+
+# # # 14
+# 14-Algorithmic_Trading
+
+# **/01-Ins_Simple_Trading_Algorithm/Solved
+# **/02-Ins_Trading_Signals/Solved
+# **/03-Stu_A_Short_DMAC_Algo/Solved
+# **/04-Ins_Alternative_Technical_Indicators/Solved
+# **/05-Stu_Using_Finta_for_Trading_Signals/Solved
+
+# **/01-Ins_Perf_Metrics/Solved
+# **/02-Stu_Perf_Metrics/Solved
+# **/03-Evr_Build_Signals/Solved
+# **/04-Evr_Fit_Predict/Solved
+# **/05-Evr_Backtest_Model/Solved
+# **/06-Ins_Live_Trade_Demo/Solved
+
+# # 15
+15-Roboadvisors
+
+**/01_Stu_Bit_and_Fear_Bot/Solved
+**/02_Ins_AWS_Lambda/Solved
+**/03_Stu_AWS_Lambda/Solved
+
+**/01-Stu_Pros_and_Cons_Cloud_ML/Solved
+**/02_Ins_SageMaker_Studio/Solved
+**/03_Stu_Money_Laundering/Solved
+
+# 16 - Project Week
+16-Project-2-Week-1
+
+# 17 - Project Week
+16-Project-2-Week-2
+
+# 18
+18-Blockchain
+
+**/01-Stu_Use_Case_Study/Solved
+**/02-Evr_Building_Blocks/Solved
+
+**/01-Evr_Streamlit/Solved
+**/02-Stu_Streamlit/Solved
+**/03-Advanced_Streamlit/Solved
+
+Instructional_Support
+
+# # 19
+19-Blockchain_Wallets
+
+**/01-Ins_Ethereum_Tester_and_Web3py/Solved
+**/02-Stu_Ethereum_Tester/Solved
+**/03-Evr_Digital_Wallets/Solved
+**/04-Stu_Wallets_and_Accounts/Solved
+
+**/01-Evr_Ethereum_and_Streamlit/Solved
+**/02-Stu_Automating_Ethereum/Solved
+**/03-Stu_Cats_Mini_Project/Solved
+
+# 20
+20-Smart_Contracts_with_Solidity
+
+# 21
+21-Advanced-Solidity
+
+# 22
+22-Decentralized_Apps
+
+# 23 - Project Week
+
+# 24 - Project Week
